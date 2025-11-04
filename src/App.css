@@ -1,0 +1,77 @@
+body {
+  background-color: #1a1a1a;
+  color: #ffffff;
+  margin: 0;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.game-area {
+  display: flex;
+  justify-content: space-around;
+  align-items: stretch;
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+.player-card {
+  border: 1px solid #777;
+  padding: 15px;
+  border-radius: 8px;
+  width: 45%;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+  background-color: #ffffff;
+  color: #333;
+}
+
+.player-card.pc {
+  background-color: #ffe0e0;
+}
+
+.dice-display img {
+  width: 100px;
+  height: 100px;
+  margin: 10px 0;
+}
+
+.result-text {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 20px 0;
+  color: #ffffff;
+}
+
+.scores {
+  margin-top: 15px;
+  padding: 10px;
+  border: 1px dashed #ffffff;
+  display: inline-block;
+  color: #ffffff;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+button:disabled {
+  background-color: #777;
+  cursor: not-allowed;
+}
+
+.name-update input {
+  padding: 5px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
