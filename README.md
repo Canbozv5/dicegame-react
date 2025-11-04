@@ -1,4 +1,4 @@
-# 🎲 Reaktif Zar Atma Oyunu (Dice Game)
+# Reaktif Zar Atma Oyunu (Dice Game)
 
 Bu proje, bir frontend eğitim ödevi olarak, **React** ve **Vite** kullanılarak geliştirilmiş basit bir zar atma oyunudur. Projenin temel amacı, React'te durum yönetimi (`useState`), zamanlayıcılar (`setTimeout`, `setInterval`) ve bileşenler arası iletişim (`props`) becerilerini uygulamaktır.
 
