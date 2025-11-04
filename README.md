@@ -4,7 +4,7 @@ Bu proje, bir frontend eğitim ödevi olarak, **React** ve **Vite** kullanılara
 
 ## Canlı Demoya Ulaşmak İçin (Opsiyonel - Eğer projeyi yayınlarsan)
 
-📌 [Projenizin Canlı Demo Bağlantısı Buraya Gelecek] 📌
+📌 https://bright-biscochitos-a7d767.netlify.app 📌
 
 ---
 
